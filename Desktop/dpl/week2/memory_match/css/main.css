@@ -1,0 +1,17 @@
+.hidden {
+  color: white;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.mode {
+  color: blue;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.center {
+  color: darkblue
+}
